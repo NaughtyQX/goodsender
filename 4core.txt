@@ -1,0 +1,1 @@
+65.109.102.212:7389@GOWO\Administrator;123Abc@
