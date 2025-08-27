@@ -1,2 +1,0 @@
-103.107.143.197:3386@RADIO-RIS\Administrator;Admin@123
-103.104.122.2:4389@WIN-H7NOIUUSK7L\Administrator;p@ssw0rd!@#
