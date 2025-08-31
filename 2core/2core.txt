@@ -16,3 +16,4 @@
 157.180.17.211:3376@WIN-VH927TFV875\Administrator;P@ssw0rd|🇫🇮-Europe
 82.157.193.168:3389@10_0_24_9\Administrator;Test@123456789|🇨🇳-Asia
 157.10.50.147:50519@PC-SILOQJIOLD\Administrator;Amazon123@|🇻🇳-Asia
+103.190.81.97:36710@PC-ROGIXZLMWZ\Administrator;Zxc@123123|🇻🇳-Asia
