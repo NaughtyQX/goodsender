@@ -1,2 +1,3 @@
 65.109.102.212:7389@GOWO\Administrator;123Abc@|🇫🇮-Europe
 82.21.185.169:3389@RELIABE-6712\Administrator;King1234|🇺🇸-North America
+47.247.145.54:45789@CDIPLSERVER\Administrator;Admin@123|🇮🇳-Asia
