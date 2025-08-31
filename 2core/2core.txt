@@ -5,3 +5,4 @@
 49.233.107.78:3389@10_2_20_17\Administrator;Test@123456789|🇨🇳-Asia
 43.155.62.246:43389@WIN-50578418056\Administrator;Kimlu1986|🇭🇰-Asia
 152.136.27.237:3389@10_2_24_16\Administrator;Test@123456789|🇨🇳-Asia
+188.34.198.175:3389@MINIVPS-CLOUD\Administrator;$Ch4ng3M3$|🇩🇪-Europe
