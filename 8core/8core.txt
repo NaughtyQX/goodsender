@@ -15,3 +15,4 @@
 182.16.72.221:33880@WIN-MH2LHDB7NJC\Administrator;qwer4321..|🇭🇰-Asia
 140.143.227.43:3389@10_2_8_13\Administrator;Test@123456789|🇨🇳-Asia
 36.137.14.202:3389@ECS-92024723-01\Administrator;Aa1122334@2024|🇨🇳-Asia
+36.133.11.155:3389@ECS-31891230-00\Administrator;Aa1122334@2024|🇨🇳-Asia
