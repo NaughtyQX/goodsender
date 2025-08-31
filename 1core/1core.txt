@@ -1,3 +1,4 @@
 103.168.19.37:3339@VPS\Administrator;Qwerty@123|🇮🇳-Asia
 15.235.181.95:13393@WIN-4TTT19K3CL8\Administrator;Abcde12345|🇸🇬-Asia
 47.237.26.64:4490@IZGSO6W2GYZR1HZ\Administrator;Admin123|🇸🇬-Asia
+167.235.33.112:22022@LOL-LDPE5G5TO5Q\Administrator;Vpsvnn@.com|🇩🇪-Europe
