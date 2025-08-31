@@ -21,3 +21,4 @@
 36.134.136.61:3389@ECS-56218739-01\Administrator;Aa1122334@2024|🇨🇳-Asia
 36.138.171.214:3389@ECS-84512122\Administrator;Aa1122334@2024|🇨🇳-Asia
 115.78.225.214:60501@WIN-RRKMK71TL6I\Administrator;Aa123456@|🇻🇳-Asia
+182.16.72.219:33880@WIN-MH2LHDB7NJC\Administrator;qwer4321..|🇭🇰-Asia
