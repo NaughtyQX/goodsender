@@ -15,3 +15,4 @@
 103.171.34.186:20096@PC-201908211654\Administrator;admin123456|🇭🇰-Asia
 157.180.17.211:3376@WIN-VH927TFV875\Administrator;P@ssw0rd|🇫🇮-Europe
 82.157.193.168:3389@10_0_24_9\Administrator;Test@123456789|🇨🇳-Asia
+157.10.50.147:50519@PC-SILOQJIOLD\Administrator;Amazon123@|🇻🇳-Asia
