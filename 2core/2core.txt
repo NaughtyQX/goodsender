@@ -18,3 +18,4 @@
 157.10.50.147:50519@PC-SILOQJIOLD\Administrator;Amazon123@|🇻🇳-Asia
 103.190.81.97:36710@PC-ROGIXZLMWZ\Administrator;Zxc@123123|🇻🇳-Asia
 39.109.104.156:19741@YISU-667657A312\Administrator;Pp123456|🇭🇰-Asia
+103.53.229.21:8200@WIN-BTFP5FER4PC\Administrator;1q2w3e4r@!|🇻🇳-Asia
