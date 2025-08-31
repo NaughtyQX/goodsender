@@ -12,3 +12,4 @@
 168.220.234.217:3389@WD168220234217G\administrator;Pravin@123|🇮🇳-Asia
 168.220.242.159:3389@26044\administrator;Shakti@1122|🇮🇳-Asia
 168.220.234.217:3389@WD168220234217G\administrator;Pravin@123|🇮🇳-Asia
+103.148.245.46:17702@WIN-5JKMU7VUHC3\Administrator;asdf123456|🇭🇰-Asia
