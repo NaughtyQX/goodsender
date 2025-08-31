@@ -25,3 +25,4 @@
 103.226.249.77:2023@WIN-QTUBANQRL4F\Administrator;Gdata@2023|🇻🇳-Asia
 103.81.247.203:36552@WIN-FNTUUVR0NFT\Administrator;Aa111222|🇭🇰-Asia
 168.220.248.243:3389@WD168220248243F\administrator;Virendra@1234|🇮🇳-Asia
+47.115.212.106:55055@YUN14295243\Administrator;sun123|🇨🇳-Asia
