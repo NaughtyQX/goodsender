@@ -2,3 +2,4 @@
 82.21.185.169:3389@RELIABE-6712\Administrator;King1234|🇺🇸-North America
 47.247.145.54:45789@CDIPLSERVER\Administrator;Admin@123|🇮🇳-Asia
 157.20.160.114:4389@DYPHISAPP01\Administrator;Tech@123|🇮🇳-Asia
+112.121.161.220:23389@220OA\Administrator;Cheng123|🇭🇰-Asia
