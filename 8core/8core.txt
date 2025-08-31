@@ -24,3 +24,4 @@
 182.16.72.219:33880@WIN-MH2LHDB7NJC\Administrator;qwer4321..|🇭🇰-Asia
 103.226.249.77:2023@WIN-QTUBANQRL4F\Administrator;Gdata@2023|🇻🇳-Asia
 103.81.247.203:36552@WIN-FNTUUVR0NFT\Administrator;Aa111222|🇭🇰-Asia
+168.220.248.243:3389@WD168220248243F\administrator;Virendra@1234|🇮🇳-Asia
