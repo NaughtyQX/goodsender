@@ -11,3 +11,4 @@
 152.136.38.93:3389@10_2_24_45\Administrator;Test@123456789|🇨🇳-Asia
 123.18.206.181:6999@video\Administrator;Langson@1234!@#$|🇻🇳-Asia
 210.245.59.76:33899@WIN-S4NUHGR3DBB\Administrator;me.131845|🇻🇳-Asia
+103.74.104.9:33990@PC-GPDCXCWXOM\Administrator;Zxc@123123|🇻🇳-Asia
