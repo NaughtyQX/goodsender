@@ -27,3 +27,4 @@
 168.220.248.243:3389@WD168220248243F\administrator;Virendra@1234|🇮🇳-Asia
 47.115.212.106:55055@YUN14295243\Administrator;sun123|🇨🇳-Asia
 5.202.169.1:1002@ARPASRV\Administrator;P@ssw0rd987|🇮🇷-Asia
+103.190.195.174:3346@SERVER\Administrator;123|🇮🇳-Asia
