@@ -10,3 +10,4 @@
 103.171.48.98:82@HOSERVER\Administrator;Omsairam@2023|🇮🇳-Asia
 103.164.188.30:9091@TALLYSERVER\Administrator;Server@54321|🇮🇳-Asia
 168.220.234.217:3389@WD168220234217G\administrator;Pravin@123|🇮🇳-Asia
+168.220.242.159:3389@26044\administrator;Shakti@1122|🇮🇳-Asia
