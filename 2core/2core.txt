@@ -9,3 +9,4 @@
 188.34.198.175:3389@MINIVPS-CLOUD\Administrator;$Ch4ng3M3$|🇩🇪-Europe
 123.18.206.181:6999@video\Administrator;Langson@1234!@#$|🇻🇳-Asia
 152.136.38.93:3389@10_2_24_45\Administrator;Test@123456789|🇨🇳-Asia
+123.18.206.181:6999@video\Administrator;Langson@1234!@#$|🇻🇳-Asia
