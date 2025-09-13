@@ -18,3 +18,4 @@
 103.115.126.83:3389@DAGURSERVICES\Administrator;System#159|🇮🇳-Asia
 45.118.35.93:6363@TRAINING\Administrator;Citrix123|🇮🇳-Asia
 45.64.84.154:6374@VICTOR\Admin;1234567|🇮🇳-Asia
+51.89.254.234:3389@WIN-CMC252ODT8V\Administrator;User@2025|🇬🇧-Europe
