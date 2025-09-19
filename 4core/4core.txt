@@ -19,3 +19,4 @@
 45.118.35.93:6363@TRAINING\Administrator;Citrix123|🇮🇳-Asia
 45.64.84.154:6374@VICTOR\Admin;1234567|🇮🇳-Asia
 51.89.254.234:3389@WIN-CMC252ODT8V\Administrator;User@2025|🇬🇧-Europe
+117.1.112.60:1105@ADMIN\Administrator;87654321|🇻🇳-Asia
